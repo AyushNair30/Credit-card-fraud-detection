@@ -2,9 +2,6 @@
 data/raw/
 data/processed/
 
-# Model artifacts
-models/
-
 # Python
 __pycache__/
 *.py[cod]
